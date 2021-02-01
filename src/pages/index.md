@@ -49,7 +49,7 @@ sections:
   - type: grid_section
     title: Image Grid...
     subtitle: Grid Section Example
-    align: center
+    align: right
     grid_items:
       - image: images/logo-1.svg
         image_alt: Contentful logo
