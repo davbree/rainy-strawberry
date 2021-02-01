@@ -91,6 +91,7 @@ sections:
     enable_cards: true
     padding_top: large
     has_border: true
+    background_color: primary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
