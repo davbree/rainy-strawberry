@@ -90,6 +90,7 @@ sections:
         type: action
     enable_cards: true
     padding_top: large
+    has_border: true
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
